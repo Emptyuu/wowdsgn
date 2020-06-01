@@ -1,5 +1,5 @@
 <template>
-  <div>Login</div>
+  <div>Login登录</div>
 </template>
 
 <script>
